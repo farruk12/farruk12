@@ -1,12 +1,15 @@
 [![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Farruk Omar</h1>
+<h3 align="center">A passionate Full Stack Engineer from Kenya</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farruk12&label=Profile%20views&color=0e75b6&style=flat" alt="farruk12" /> </p>
+
+<p align="left"> <a href="https://twitter.com/codingwizard12" target="blank"><img src="https://img.shields.io/twitter/follow/codingwizard12?logo=twitter&style=for-the-badge" alt="codingwizard12" /></a> </p>
 
 Dynamic and motivated software engineer with a solid background in data structures, algorithms, and web development technologies, including Python and JavaScript (ES6). Demonstrated expertise lies in architecting efficient and robust backend components for web applications. Proficient in diverse technologies, with notable experience in developing JavaScript algorithms for web scraping from the Star Wars API, Implementing Python algorithms for object-relational mapping and building JavaScript applications such as a to-do list and a queuing system using Redis.
 
 I am a Highly skilled and motivated software engineer with 4 years of experience in designing and developing scalable software applications. Proficient in multiple programming languages and frameworks, with a strong focus on building efficient and user-friendly solutions. I'm Dedicated to staying updated with emerging technologies and best practices in software development.
 
-
-<h3 align="center">A passionate Full Stack Engineer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
@@ -32,8 +35,9 @@ I am a Highly skilled and motivated software engineer with 4 years of experience
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/omarfarouqmadey#paypalModal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buyme coffee" /></a><a href="https://ko-fi.com/ko-fi farruk omar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi farruk omar" /></a></p><br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farruk12&label=Profile%20views&color=0e75b6&style=flat" alt="farruk12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farruk12" alt="farruk12" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/codingwizard12" target="blank"><img src="https://img.shields.io/twitter/follow/codingwizard12?logo=twitter&style=for-the-badge" alt="codingwizard12" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farruk12&show_icons=true&locale=en" alt="farruk12" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farruk12&" alt="farruk12" /></p>
