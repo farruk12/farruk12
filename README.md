@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farruk12" alt="farruk12" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/codingwizard12" target="blank"><img src="https://img.shields.io/twitter/follow/codingwizard12?logo=twitter&style=for-the-badge" alt="codingwizard12" /></a> </p>
 
 - 🌱 I’m currently learning **Node js, React Native, Django, flask, Data science and Machine Learning**
 
