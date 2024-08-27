@@ -3,9 +3,6 @@
 <h3 align="center">A passionate Full Stack developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farruk12&label=Profile%20views&color=0e75b6&style=flat" alt="farruk12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farruk12" alt="farruk12" /></a> </p>
 
 
 - 🌱 I’m currently learning **Node js, React Native, Django, flask, Data science and Machine Learning**
@@ -52,3 +49,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orii-blackmark&show_icons=true&locale=en" alt="orii-blackmark" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orii-blackmark&" alt="orii-blackmark" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farruk12&label=Profile%20views&color=0e75b6&style=flat" alt="farruk12" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farruk12" alt="farruk12" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/codingwizard12" target="blank"><img src="https://img.shields.io/twitter/follow/codingwizard12?logo=twitter&style=for-the-badge" alt="codingwizard12" /></a> </p>
