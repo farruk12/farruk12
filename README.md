@@ -21,29 +21,7 @@ I am a Highly skilled and motivated software engineer with 4 years of experience
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/farruk omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="farruk omar" height="30" width="40" /></a>
-<a href="https://dev.to/farruk omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="farruk omar" height="30" width="40" /></a>
-<a href="https://twitter.com/codingwizard12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingwizard12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/farruk omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farruk omar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/farruk omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="farruk omar" height="30" width="40" /></a>
-<a href="https://codesandbox.com/farruk omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="farruk omar" height="30" width="40" /></a>
-<a href="https://kaggle.com/farruk omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="farruk omar" height="30" width="40" /></a>
-<a href="https://fb.com/farruk omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farruk omar" height="30" width="40" /></a>
-<a href="https://instagram.com/i.am_o.mar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.am_o.mar" height="30" width="40" /></a>
-<a href="https://dribbble.com/farruk omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="farruk omar" height="30" width="40" /></a>
-<a href="https://www.behance.net/farruk omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="farruk omar" height="30" width="40" /></a>
-<a href="https://hashnode.com/farruk omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="farruk omar" height="30" width="40" /></a>
-<a href="https://medium.com/@omarfarouqmadey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@omarfarouqmadey" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/farruk omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="farruk omar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/farruk omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="farruk omar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/farruk omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="farruk omar" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/farruk omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="farruk omar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/farruk omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farruk omar" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/farruk omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="farruk omar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/farruk omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="farruk omar" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/farruk omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="farruk omar" height="30" width="40" /></a>
-<a href="https://discord.gg/farruk omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="farruk omar" height="30" width="40" /></a>
-<a href="/farruk omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="farruk omar" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
